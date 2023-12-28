@@ -1,0 +1,41 @@
+{
+    "discord_bot_token": "",
+    "char_ai_user_token": "",
+
+    "discord_bot_role": "Manage Character",
+    "discord_bot_call_prefixes": [ ".ai ", "!!" ],
+    "discord_bot_command_subprefix": "#",
+    "discord_private_category_name": "CAI PRIVATE CHANNELS",
+
+    "default_audience_mode": 0,
+    "audience_mode_quote_format": "\n",
+    "audience_mode_username_format": "",
+    "default_no_permission_file": "nopower.gif",
+
+    "private_chat_role_required": false,
+    "use_character_avatar": true,
+    "use_character_name": true,
+    "description_in_playing_status": true,
+    "allow_dm": true,
+
+    "rate_limit": 10,
+    "default_replies_delay": 1,
+    "enable_swipe_buttons": false,
+    "enable_stop_button": false,
+    "buttons_remove_delay": 120,
+
+    "auto_setup": true,
+    "auto_char_id": "",
+
+    "custom_chrome_directory": null,
+    "custom_chrome_executable_full_path": null,
+    "public_mode": false,
+    "hoster_discord_id": null,
+
+    "enable_translate_button": false,
+    "deepl_api_token": "",
+    "default_translate_language": "ru",
+
+    "discord_error_log_channel_id": null,
+    "enable_cai_plus_mode": false
+}
