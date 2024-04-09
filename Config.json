@@ -1,8 +1,8 @@
 {
-    "discord_bot_token": "",
-    "char_ai_user_token": "",
+    "discord_bot_token": "", // <=== Discord Bot Token
+    "char_ai_user_token": "", // <=== Your Character Login / Login Key.
 
-    "discord_bot_role": "Manage Character",
+    "discord_bot_role": "xModAI",
     "discord_bot_call_prefixes": [ ".ai ", "!!" ],
     "discord_bot_command_subprefix": "#",
     "discord_private_category_name": "CAI PRIVATE CHANNELS",
@@ -16,16 +16,16 @@
     "use_character_avatar": true,
     "use_character_name": true,
     "description_in_playing_status": true,
-    "allow_dm": true,
+    "allow_dm": false,
 
-    "rate_limit": 10,
+    "rate_limit": 6,
     "default_replies_delay": 1,
     "enable_swipe_buttons": false,
     "enable_stop_button": false,
     "buttons_remove_delay": 120,
 
     "auto_setup": true,
-    "auto_char_id": "",
+    "auto_char_id": "", // <=== Here is ID for Character
 
     "custom_chrome_directory": null,
     "custom_chrome_executable_full_path": null,
@@ -37,5 +37,5 @@
     "default_translate_language": "ru",
 
     "discord_error_log_channel_id": null,
-    "enable_cai_plus_mode": false
+    "enable_cai_plus_mode": false // <==== Don't Touch this.
 }
