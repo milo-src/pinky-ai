@@ -1,7 +1,5 @@
 # Pinky AI Discord Bot
 
-![Pinky AI Logo](pinky_ai_logo.png)
-
 Welcome to Pinky AI Discord Bot repository!
 
 ## About Pinky AI
